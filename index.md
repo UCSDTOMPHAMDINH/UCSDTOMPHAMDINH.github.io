@@ -8,4 +8,4 @@
 ### LINKS
 1. link to readme
    - [THE README](README.md)
-   * ::Snake:: 
+   * [GOOGLE](https://www.google.com/)
