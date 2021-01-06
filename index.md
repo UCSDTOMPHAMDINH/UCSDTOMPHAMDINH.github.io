@@ -9,4 +9,7 @@
 1. link to readme
    - [THE README](README.md)
    * [GOOGLE](https://www.google.com/)
-   * :Snake:
+2. to do list
+   1. [ ] grind homework
+   2. [x] grind gym
+   
