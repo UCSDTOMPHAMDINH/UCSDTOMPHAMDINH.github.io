@@ -1,5 +1,8 @@
 # Tom Pham Dinh
 
+[Me](20210108_195709.jpg)
+## About Me
+* Third Year Computer Science Major at UCSD
 ## LIFT NUMBERS
 - **328 Bench**
 - *485 squat*
