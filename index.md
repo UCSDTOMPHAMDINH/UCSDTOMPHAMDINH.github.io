@@ -1,6 +1,6 @@
 # Tom Pham Dinh
 
-[Me](20210108_195709.jpg)
+![Me](20210108_195709.jpg)
 ## About Me
 * Third Year Computer Science Major at UCSD
 ## LIFT NUMBERS
